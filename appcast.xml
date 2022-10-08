@@ -20,10 +20,10 @@
         <item>
             <title>Version 1.1.0</title>
             <sparkle:releaseNotesLink>
-                https://your_domain/your_path/release_notes.html
+                https://pub.dev/packages?q=platform%3Awindows+auto+update
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="1.1.0+2/auto_updater_example-1.1.0+2-windows.exe"
+            <enclosure url="https://github.com/FalahHAbbas/files/blob/main/flutter_auto_update.exe?raw=true"
                 sparkle:dsaSignature="MD4CHQCiwL2rniDHEnQ7hmaqFBcJOSroAZ5rTJGZyjnGAh0AktHRUMaCWflC41H0MmS4Qt+ZWBlrPV5rmBfn0A=="
                 sparkle:version="1.1.0"
                 sparkle:os="windows"
